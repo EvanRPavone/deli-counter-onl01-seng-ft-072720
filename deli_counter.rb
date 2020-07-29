@@ -4,7 +4,7 @@ def line(array)
     puts "The line is currently empty."
   elsif array.length > 0
     counter += 1
-    puts "The line is currently #{counter}. #{name}"
+    puts "The line is currently:"katz_deli
 
 
   end
