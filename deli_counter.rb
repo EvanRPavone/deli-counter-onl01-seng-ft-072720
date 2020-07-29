@@ -5,8 +5,7 @@ def line(array)
   elsif array.length > 0
     counter += 1
     puts "The line is currently #{counter}. #{name}"
-    
-    
+
+
   end
 end
-  
